@@ -1,0 +1,1 @@
+Hello World! In this project of mine, I will be creating and styling a landing page. This project will mostly include HTML and CSS and no JS. My object is to create a landing page and take my time doing it, so I can understand the complex ways of playing around with CSS. 
