@@ -178,4 +178,18 @@ li {
     align-self: flex-end;
     border-radius: 8px;
     padding: 10px 30px 10px 30px;
+    font-weight: 900;
+}
+/* Footer */
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+.footer-text {
+    align-self: center;
+    width: 280px;
+    font-weight: 400;
+    color: #FFFFFF;
 }
