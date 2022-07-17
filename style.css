@@ -4,6 +4,8 @@
 
 body{
     min-height: 100vh;
+    margin: 0;
+    padding: 0;
     background-color: #1F2937;
     font-family: 'Poppins', sans-serif;
 }
@@ -11,6 +13,7 @@ body{
 .Hero{
     background-color: #1F2937;
     color: #F9Faf8;
+    height: 900px;
 }
 a {
     text-decoration: none;
@@ -80,3 +83,39 @@ li {
 }
 
 /* INFORMATION SECTION DOWN BELOW */
+
+.info-box {
+    background-color: #FFFFFF;
+    height: 500px;
+}
+.i-text {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937; 
+    padding: 20px;
+}
+.square {
+    height: 100px;
+    width: 100px;
+    border: 6px solid #3882F6;
+    border-radius: 8px;
+}
+.square img{
+    width: 100px;
+    height: 100px;
+}
+.info-img {
+    display: flex;
+    flex: 1 0 auto;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.i-img {
+    margin-top: 20px;
+    width: 200px;
+}
+.subtext {
+    flex-flow: row wrap;
+}
